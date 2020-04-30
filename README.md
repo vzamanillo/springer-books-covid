@@ -3,6 +3,8 @@
 
 Springer Nature makes key textbooks freely accessible for educators, students and academics affected by coronavirus lockdown.
 
+Valid Until 2020 July end only!!!
+
 More information on [Springer Nature](https://group.springernature.com/fr/group/media/press-releases/freely-accessible-textbook-initiative-for-educators-and-students/17858180)
 
 ## Installation
