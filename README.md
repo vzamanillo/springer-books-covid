@@ -9,7 +9,7 @@ More information on [Springer Nature](https://group.springernature.com/fr/group/
 
 ## Installation
 
-You need wget to make it work, then.
+You need wget to make it work.
 
 #### Windows
 
